@@ -8,6 +8,7 @@ C++ programs for class
 - `CompileTest.cpp` — simple compile/test program
 - `Lesson1.cpp` — Fruit sorting using Greedy Algorithm
 - `README.md` — this file
+ - `Lesson2.cpp` — binary-search example (reads `n`, `n` numbers, then a target; outputs position or `-1`)
 
 ## Notes
 
